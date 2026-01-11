@@ -1233,3 +1233,282 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.11-17.34.28:977][ 12]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1164040915
 [2026.01.11-17.34.28:977][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.337210, Update Interval: 348.698395
 [2026.01.11-17.35.51:422][260]LogDerivedDataCache: C:/Users/ADMIN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.11-17.40.17:673][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 354.369202
+[2026.01.11-17.40.18:673][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.11-17.40.18:673][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 355.036377, Update Interval: 351.228973
+[2026.01.11-17.46.12:369][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 709.065063
+[2026.01.11-17.46.13:369][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.11-17.46.13:369][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 709.731873, Update Interval: 346.830658
+[2026.01.11-17.52.04:422][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1061.119263
+[2026.01.11-17.52.05:422][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.11-17.52.05:422][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1061.785278, Update Interval: 352.584015
+[2026.01.11-17.53.47:069][ 42]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.01.11-17.53.47:073][ 42]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.11-17.53.47:074][ 42]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.01.11-17.53.47:075][ 42]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.058 ms
+[2026.01.11-17.53.47:075][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.11-17.53.47:079][ 42]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.01.11-17.53.47:079][ 42]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.01.11-17.53.47:080][ 42]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.01.11-17.53.47:085][ 42]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.11-17.53.47:086][ 42]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 977 us
+[2026.01.11-17.53.47:086][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006407s)
+[2026.01.11-17.53.47:086][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.006456s)
+[2026.01.11-17.53.47:151][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.11-17.53.47:153][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.01.11-17.53.47:154][ 42]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.11-17.53.47:154][ 42]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.11-17.53.47:154][ 42]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.11-17.53.47:154][ 42]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.11-17.53.47:156][ 42]LogWorldPartition: Display: WorldPartition initialize took 1.355 ms (total: 74.599 ms)
+[2026.01.11-17.53.47:156][ 42]LogPlayLevel: PIE: World Init took: (0.003212s)
+[2026.01.11-17.53.47:157][ 42]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.01.11-17.53.47:157][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.11-17.53.47:157][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.11-17.53.47:157][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.11-17.53.47:157][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.11-17.53.47:157][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.11-17.53.47:157][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.11-17.53.47:157][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.11-17.53.47:157][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.11-17.53.47:157][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.11-17.53.47:157][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.11-17.53.47:157][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.11-17.53.47:158][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.11-17.53.47:195][ 42]LogAudioMixer: Display: Using Audio Hardware Device 2 - SAMSUNG (AMD High Definition Audio Device)
+[2026.01.11-17.53.47:195][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.11-17.53.47:195][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.11-17.53.47:195][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.11-17.53.47:196][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.01.11-17.53.47:196][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.01.11-17.53.47:199][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.01.11-17.53.47:199][ 42]LogInit: FAudioDevice initialized with ID 2.
+[2026.01.11-17.53.47:199][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.01.11-17.53.47:199][ 42]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_FirstPerson'.
+[2026.01.11-17.53.47:199][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.11-17.53.47:203][ 42]LogLoad: Game class is 'GM_FirstPerson_C'
+[2026.01.11-17.53.47:206][ 42]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.01.11-18.53.47
+[2026.01.11-17.53.47:206][ 42]LogWorld: Bringing up level for play took: 0.002721
+[2026.01.11-17.53.47:208][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2026.01.11-17.53.47:226][ 42]PIE: El servidor ha iniciado sesión
+[2026.01.11-17.53.47:228][ 42]PIE: Tiempo de inicio total de la reproducción en el editor de 0,154 segundos.
+[2026.01.11-17.53.53:259][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.11-17.53.53:259][698]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.01.11-17.53.53:260][698]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-17.53.53:261][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-17.53.53:261][698]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.01.11-17.53.53:262][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.11-17.53.53:265][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-17.53.53:285][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.11-17.53.53:285][698]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.11-17.53.53:285][698]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.01.11-17.53.53:287][698]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.01.11-17.53.53:292][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.11-17.53.53:379][700]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2026.01.11-17.55.06:732][811]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.01.11-17.58.12:303][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1428.997681
+[2026.01.11-17.58.12:452][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.11-17.58.12:452][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1429.139038, Update Interval: 309.278229
+[2026.01.11-17.58.55:253][464]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.11-17.58.55:256][464]LogLandscape: Marcar paisajes modificados y dañados: 0 proxies dañados.
+[2026.01.11-17.58.55:256][464]LogLandscape: Compilar césped: 0 proxies de paisaje compilados
+[2026.01.11-17.58.55:256][464]LogLandscape: Compilar materiales físicos: 0 proxies de paisaje compilados
+[2026.01.11-17.58.55:256][464]LogLandscape: Realizada la operación de compilar todo.
+[2026.01.11-17.58.55:256][464]Cmd: MAP REBUILD ALLVISIBLE
+[2026.01.11-17.58.55:257][464]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2026.01.11-17.58.55:261][464]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-17.58.55:262][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-17.58.55:262][464]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.01.11-17.58.55:267][464]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.01.11-17.58.55:270][464]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.01.11-17.58.55:270][464]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.11-17.58.55:270][464]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.11-17.58.55:271][464]LogWorldPartition: Display: WorldPartition initialize took 1.823 ms (total: 76.422 ms)
+[2026.01.11-17.59.00:295][464]LogSlate: Window 'Compilar HLOD' being destroyed
+[2026.01.11-17.59.00:319][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.11-17.59.04:276][464]LogSlate: Window 'Guardar contenido' being destroyed
+[2026.01.11-17.59.04:282][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.11-17.59.04:316][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.01.11-17.59.04:329][464]LogSavePackage: Moving output files for package: /Game/FirstPerson/Lvl_FirstPerson
+[2026.01.11-17.59.04:330][464]LogSavePackage: Moving '../../../../../../Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Saved/Lvl_FirstPersonBCA252AF4DD9274055083DAEE581971E.tmp' to '../../../../../../Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Content/FirstPerson/Lvl_FirstPerson.umap'
+[2026.01.11-17.59.04:336][464]LogFileHelpers: Ya se han guardado todos los archivos.
+[2026.01.11-17.59.04:337][464]LogFileHelpers: Saving map 'Lvl_FirstPerson' took 0.052
+[2026.01.11-17.59.04:340][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.423 ms
+[2026.01.11-17.59.04:357][464]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-17.59.04:357][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-17.59.04:357][464]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.01.11-17.59.04:378][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.11-17.59.04:384][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.01.11-17.59.04:385][464]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.01.11-17.59.04:386][464]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.01.11-17.59.04:408][464]LogWorldPartitionEditor: Display: Running commandlet: C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor.exe  "../../../../../../Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/proyectoOmegaGame.uproject" -BaseDir="C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/Win64/" -Unattended -RunningFromUnrealEd -AbsLog="C:/Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Saved/Logs/WorldPartition/WorldPartitionHLODsBuilder-00004710-2026-01-11T18.59.04.408Z.log" /Game/FirstPerson/Lvl_FirstPerson -run=WorldPartitionBuilderCommandlet -Builder=WorldPartitionHLODsBuilder -DeleteHLODs
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Error: #### Commandlet Failed ####
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Error: C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor.exe  "../../../../../../Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/proyectoOmegaGame.uproject" -BaseDir="C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/Win64/" -Unattended -RunningFromUnrealEd -AbsLog="C:/Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Saved/Logs/WorldPartition/WorldPartitionHLODsBuilder-00004710-2026-01-11T18.59.04.408Z.log" /Game/FirstPerson/Lvl_FirstPerson -run=WorldPartitionBuilderCommandlet -Builder=WorldPartitionHLODsBuilder -DeleteHLODs
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Error: Return Code: 1
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Error: #### BEGIN COMMANDLET OUTPUT (from C:/Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Saved/Logs/WorldPartition/WorldPartitionHLODsBuilder-00004710-2026-01-11T18.59.04.408Z.log) ####
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogInit: Display: Running engine for game: proyectoOmegaGame
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogTrace: Display: Control listening on port 1985
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : config="Development"
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.6-CL-43139311"
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : engineversion="5.6.0-43139311+++UE5+Release-5.6"
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.7462] "
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600X 6-Core Processor"
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+[2026.01.11-17.59.10:065][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : asan="0"
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : commandline="" "../../../../../../Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/proyectoOmegaGame.uproject" -BaseDir="C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/Win64/" -Unattended -RunningFromUnrealEd -AbsLog="C:/Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Saved/Logs/WorldPartition/WorldPartitionHLODsBuilder-00004710-2026-01-11T18.59.04.408Z.log" /Game/FirstPerson/Lvl_FirstPerson -run=WorldPartitionBuilderCommandlet -Builder=WorldPartitionHLODsBuilder -DeleteHLODs""
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : loginid="0166490945a0031d1a25fb862040b39e"
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : llm="0"
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogAudio: Display: Audio Device Manager not initializing due to all audio being disabled. If this is not intentional, please check command line arguments for "-nosound".
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogConfig: Display: Loading Mac ini files took 0.06 seconds
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogConfig: Display: Loading Android ini files took 0.06 seconds
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogConfig: Display: Loading IOS ini files took 0.06 seconds
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogConfig: Display: Loading Unix ini files took 0.07 seconds
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogConfig: Display: Loading Windows ini files took 0.08 seconds
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogConfig: Display: Loading Linux ini files took 0.08 seconds
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogAssetRegistry: Display: Asset registry cache read as 69.6 MiB from ../../../../../../Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Intermediate/CachedAssetRegistry_0.bin.
+[2026.01.11-17.59.10:066][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> LogConfig: Display: Loading VisionOS ini files took 0.05 seconds
+[2026.01.11-17.59.10:068][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+[2026.01.11-17.59.10:072][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:466][  0]LogHAL: Display: Platform has ~ 64 GB [68626509824 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:467][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:819][  0]LogObj: Display: Attempting to load config data for Default__SlateThemeManager before the Class has been constructed/registered/linked (likely during module loading or early startup). This will result in the load silently failing and should be fixed.
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:974][  0]LogCsvProfiler: Display: Metadata set : verbatimrhiname="Null"
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:974][  0]LogCsvProfiler: Display: Metadata set : rhiname="Null"
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:974][  0]LogCsvProfiler: Display: Metadata set : rhifeaturelevel="SM6"
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:974][  0]LogCsvProfiler: Display: Metadata set : shaderplatform="PCD3D_SM6"
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:984][  0]LogTextureFormatASTC: Display: ASTCEnc version 5.0.1 library loaded
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:984][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:984][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:984][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:984][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:984][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:984][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.13
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:984][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.13.dll
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:984][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.05:985][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_OpenXR'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_OpenXRClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:095][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:099][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:138][  0]LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:322][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1351 MiB)
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:930][  0]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2026.01.11-17.59.10:073][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:931][  0]LogDerivedDataCache: Display: ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:940][  0]LogDerivedDataCache: Display: C:/Users/ADMIN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.05ms. RandomReadSpeed=1115.00MBs, RandomWriteSpeed=155.45MBs. Assigned SpeedClass 'Local'
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:943][  0]LogUbaHorde: Display: UBA/Horde Configuration [Uba.Provider.Horde]: Not Enabled
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:943][  0]LogShaderCompilers: Display: Using 9 local workers for shader compilation
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:945][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.06:945][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:567][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:594][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches ../../../../../../Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Intermediate/CachedAssetRegistry_*.bin.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:819][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:819][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:849][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:851][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:866][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:867][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:867][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:867][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:868][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:868][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:868][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:869][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_M because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:869][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_N because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:870][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:870][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:871][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:871][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDiffuse because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultPostProcessMaterial because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultLightFunctionMaterial because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Package /Engine/EngineMaterials/WorldGridMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDeferredDecalMaterial because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/WorldGridMaterial because of a recursive sync load
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.07:943][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.08:054][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.08:054][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.08:152][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.08:155][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 2.634 ms
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.08:311][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.01.11-17.59.10:074][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.08:311][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.01.11-17.59.10:075][464]LogWorldPartitionEditor: Display: #### COMMANDLET OUTPUT >> [2026.01.11-17.59.09:627][  0]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.11-17.59.10:075][464]LogWorldPartitionEditor: Error: #### END COMMANDLET OUTPUT ####
+[2026.01.11-17.59.10:093][464]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-17.59.10:093][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-17.59.10:112][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.11-17.59.10:114][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.01.11-17.59.10:115][464]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.11-17.59.10:117][464]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_FirstPerson'.
+[2026.01.11-17.59.10:117][464]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.01.11-17.59.10:119][464]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.01.11-17.59.10:119][464]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.11-17.59.10:119][464]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.11-17.59.10:133][464]LogWorldPartition: Display: WorldPartition initialize took 13.788 ms (total: 90.211 ms)
+[2026.01.11-17.59.10:151][464]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.11-17.59.10:174][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.11-17.59.10:181][464]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.11-17.59.10:182][464]MapCheck: Verificación de mapa completa: 0 errores, 0 advertencias: Tardó 0,917 ms en completarse.
+[2026.01.11-17.59.52:235][464]LogSlate: Window 'Mensaje' being destroyed
+[2026.01.11-17.59.52:239][464]Message dialog closed, result: Ok, title: Mensaje, text: ¡Error de compilación! Ver registro para más detalles.
+[2026.01.11-17.59.52:239][464]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2026.01.11-17.59.52:261][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.11-17.59.52:380][464]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2026.01.11-17.59.52:382][464]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2026.01.11-17.59.52:398][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.01.11-17.59.52:441][464]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2026.01.11-17.59.52:461][464]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2026.01.11-17.59.52:462][464]MapCheck: Verificación de mapa completa: 0 errores, 0 advertencias: Tardó 1,07 ms en completarse.
+[2026.01.11-17.59.52:462][464]LogEditorBuildUtils: Build time 0:57
+[2026.01.11-17.59.52:525][464]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.11-17.59.52:525][464]LogContentValidation: Enabled validators:
+[2026.01.11-17.59.52:525][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.11-17.59.52:525][464]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.11-17.59.52:525][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.11-17.59.52:525][464]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.11-17.59.52:525][464]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.11-17.59.52:525][464]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.11-17.59.52:525][464]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.01.11-17.59.52:609][464]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ADMIN/Documents/Unreal Projects/ProyectoOmega/proyectoOmegaGame/proyectoOmegaGame/Saved/SourceControl/UncontrolledChangelists.json
